@@ -11,11 +11,5 @@ Coldfusion DCMS
   * Interactive file management using FCKEditor 2.6.3. 
 
 = Details =
-  * Its FREE! :) 
-  * Download here: 
-<a href="http://code.google.com/p/jadmin/" target="_blank">http://code.google.com/p/jadmin/</a>
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * _Its FREE! :)_
+  * <a href="http://code.google.com/p/jadmin/" target="_blank">*Download Here*</a>
