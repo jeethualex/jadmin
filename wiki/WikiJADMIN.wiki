@@ -4,19 +4,21 @@ Coldfusion DCMS
 = Introduction =
 
 
-Developed in Fusebox 5.5 noxml framework for MVC architecture. 
-Developed in Coldfusion and MSSQL database. 
-Generates virtual pages implementing coldfusion code from user side. 
-Generate virtual links - search friendly URLs using ISAPI Rewrite. 
-Complete class based approach for database interactivity using Datamgr 2.2. 
-Class based session management using Sessionmgr. 
-Interactive file management using FCKEditor 2.6.3. 
+* Developed in Fusebox 5.5 noxml framework for MVC architecture. 
+* Developed in Coldfusion and MSSQL database. 
+* Generates virtual pages implementing coldfusion code from user side. 
+* Generate virtual links - search friendly URLs using ISAPI Rewrite. 
+* Complete class based approach for database interactivity using Datamgr 2.2. 
+* Class based session management using Sessionmgr. 
+* Interactive file management using FCKEditor 2.6.3. 
 
 
 
 = Details =
 
 Its FREE! :) 
+Download here: 
+<a href="http://code.google.com/p/jadmin/">http://code.google.com/p/jadmin/</a>
 
 Add your content here.  Format your content with:
   * Text in *bold* or _italic_
