@@ -1,6 +1,6 @@
 *J-ADMIN V1.1*
-TRY FREE !! 
-Coldfusion DCMS 
+<br/>TRY FREE !! 
+<br/>Coldfusion DCMS 
 
 = Introduction =
   * Developed in Fusebox 5.5 noxml framework for MVC architecture. 
